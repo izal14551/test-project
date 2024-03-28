@@ -14,8 +14,9 @@
 					<img src="<?= base_url('assets/img/profil.jpg') ?>" alt="" class="gambar-profil" draggable="false">
 
 					<h1>
-						<?php echo $nama ?>
+						<?php echo $nama; ?>
 					</h1>
+					<h2><?php echo $nim; ?></h2>
 					<p><?php echo $deskripsi; ?></p>
 				</div>
 			</div>
