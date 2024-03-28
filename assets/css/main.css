@@ -23,7 +23,7 @@ font-family: sans-serif;
 }
 
 .footer {
-	margin-top: 100px;
+	margin-top: 500px;
 	font-family: sans-serif;
 	background-color: whitesmoke;
 	padding: 1em;
@@ -31,11 +31,27 @@ font-family: sans-serif;
 	border-top: 1px solid lightgray;
 }
 
-
-.header{
-display: flex;
-justify-content: center;
+.jumbotron{
+	
+	margin-top: -20px;
+	background-image: url('../img/City_Landscape_Background.jpg');
+    background-size: cover;
+    background-position-y: -500px;
+	height: 300px;
+	box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.5);
 }
+
+.container{
+	margin: 20px;
+	display: flex;
+	
+	
+	
+}
+.header{
+	margin-top: 200px;
+}
+
 
 .gambar-profil{
 	display: block;
