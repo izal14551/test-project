@@ -1,3 +1,3 @@
 <footer class="footer">
-	&copy; <?= Date('Y') ?> Beritacoding.com
+	&copy; <?= Date('Y') ?> Fadel Alif Afrizal
 </footer>
