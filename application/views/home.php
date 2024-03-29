@@ -14,10 +14,10 @@
 					<img src="<?= base_url('assets/img/profil.jpg') ?>" alt="" class="gambar-profil" draggable="false">
 
 					<h1>
-						<?php echo $nama; ?>
+						Fadel Alif Afrizal
 					</h1>
-					<h2><?php echo $nim; ?></h2>
-					<p><?php echo $deskripsi; ?></p>
+
+					<p>Saya adalah seorang web developer dengan keahlian di bidang frontend dan backend, mampu menguasai beberapa bahasa pemrograman seperti HTML, CSS, JavaScript, dan PHP. Saya memiliki pengalaman yang luas dalam menggunakan berbagai framework termasuk Bootstrap, Laravel, dan CodeIgniter untuk membangun aplikasi web yang responsif dan dinamis. Di luar pekerjaan, saya menyukai permainan game dan bermain basket, yang membantu saya tetap seimbang antara pekerjaan dan hobi.</p>
 				</div>
 			</div>
 		</div>

@@ -11,9 +11,7 @@ class Page extends CI_Controller
             'title' => 'Fadel Alif Afrizal',
 
         ];
-        $data['nama'] = "Fadel Alif Afrizal";
-        $data['nim'] = "STI202102230";
-        $data["deskripsi"] = "Saya adalah seorang web developer dengan keahlian di bidang frontend dan backend, mampu menguasai beberapa bahasa pemrograman seperti HTML, CSS, JavaScript, dan PHP. Saya memiliki pengalaman yang luas dalam menggunakan berbagai framework termasuk Bootstrap, Laravel, dan CodeIgniter untuk membangun aplikasi web yang responsif dan dinamis. Di luar pekerjaan, saya menyukai permainan game dan bermain basket, yang membantu saya tetap seimbang antara pekerjaan dan hobi.";
+
 
         $this->load->view('home', $data);
     }
